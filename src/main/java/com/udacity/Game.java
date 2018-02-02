@@ -44,7 +44,7 @@ public class Game {
         turn = 'x';
     }
 
-
+    //added comments
     /**
      * Gets the char value at that particular position in the grid array
      * @param i the x index of the 2D array grid
